@@ -20,9 +20,9 @@ DOCTYPE Declaration: Ensures the document is interpreted as HTML5.
 Head Section:
 Meta tags for character set (UTF-8) and viewport settings for responsive design.
 A link to the external style.css file for styling.
-A <title> tag to define the page title ("Published").
+A "title" tag to define the page title ("Published").
 Body Section:
-A <header> element that contains an <h1> tag with the text "Publishing on GitHub."
+A "header" element that contains an <h1> tag with the text "Publishing on GitHub."
 Usage
 
 To view this project locally:
