@@ -24,9 +24,9 @@ A <title> tag to define the page title ("Published").
 Body Section:
 A <header> element that contains an <h1> tag with the text "Publishing on GitHub."
 Usage
-To view this project locally:
 
-###Clone or download this repository.
+To view this project locally:
+Clone or download this repository.
 Open the index.html file in your web browser.
 Add custom styling in the style.css file to modify the design.
 
